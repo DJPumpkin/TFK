@@ -174,7 +174,7 @@ function checkSpawn(){
         setReminders("Nouver");
     }
     if(currentMinutes==30&&currentHour==13&&currentDay==6){
-        setReminders("Quint/Muraka");
+        setReminders("Quint & Muraka");
     }
     if(currentMinutes==30&&currentHour==16&&currentDay==6){
         setReminders("Karanda & Kzarka");
